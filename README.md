@@ -1,6 +1,6 @@
-# Intelligent-Forecasting-Challenge
+# Intelligent Forecasting: Modelling Future Contraceptive Use
 
-# Overview
+## Overview
 
 Contraceptive utilization is the practice that helps individuals or couples avoid unwanted pregnancy. Beyond preventing unwanted pregnancy, contraceptive access is vital to safe motherhood and prosperous communities.  
 
@@ -8,7 +8,7 @@ Access to contraceptives enables individuals/couples to determine when they want
 
 Contraceptive methods range from The condom, The oral contraceptive pill, Intrauterine Device (IUD), The Contraceptive Implant, The Contraceptive Injection, Emergency Contraception Pill (The ‘Morning After’ Pill), Contraceptive Ring, Diaphragm to Sterilization.
 
- # Objectives
+ ## Objectives
  
  USAID  works with local health care authorities and partners to support voluntary family planning and reproductive health programs in nearly 40 countries across the globe. This includes ensuring contraceptives are available and accessible to people who need them. 
  
