@@ -1,5 +1,13 @@
 # Intelligent Forecasting: Modelling Future Contraceptive Use
 
+This is a group project contributed by
+
+1. Christine Kandeo
+2. Stephen Njuguna
+3. David Kiplangat
+4. Kelvin Kilel
+5. Brenda Chepkoech
+
 ## Overview
 
 Contraceptive utilization is the practice that helps individuals or couples avoid unwanted pregnancy. Beyond preventing unwanted pregnancy, contraceptive access is vital to safe motherhood and prosperous communities.  
@@ -28,4 +36,18 @@ The Main goal of this project is  to therefore build  a model that  predicts con
 3. Comparing  Stock received and distributed in the different site codes.
 
 4. Identifying the number of delivery sites and Products.
+
+## Technologies used for this project
+
+Programming Language - Python
+
+Libraries used for:
+
+ - Data manipulation -  Pandas
+
+ - Visualization - Seaborn, Matplotlib
+
+ - Modelling - Scikit Learn
+
+ - Operations on Arrays - Numpy
 
